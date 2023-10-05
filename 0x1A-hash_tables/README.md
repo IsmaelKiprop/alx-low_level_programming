@@ -1,1 +1,1 @@
-### Solution to 0x1A. C - Hash tables
+### Solution to: 0x1A. C - Hash tables
